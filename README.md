@@ -1,4 +1,4 @@
-## Counter OOP !  🧑 🧔 👧
+## Counter OOP !  🔢 🔟
 <br>
 
 ## Uma aplicação simples, quem tem como objetivo fazer contagem separadas entre dois contadores com o conceito OOP. 💻 📚
